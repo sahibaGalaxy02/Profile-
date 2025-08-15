@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![Banner]file_000000007ff061f782376f6dbc8b29e9 (1).png-banner.png)
+
 <h1 align="center">Hi 👋, I'm Sahiba Shaikh</h1>
 <h3 align="center">Aspiring AI & Web Developer | MCA Student | Passionate about Technology 🚀</h3>
 
