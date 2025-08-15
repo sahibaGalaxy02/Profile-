@@ -1,6 +1,6 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co/k8zH0jw/github-banner.png)
 
+![Banner](https://i.ibb.co/k8zH0jw/github-banner.png)
 <h1 align="center">Hi 👋, I'm Sahiba Shaikh</h1>
 <h3 align="center">Aspiring AI & Web Developer | MCA Student | Passionate about Technology 🚀</h3>
 
