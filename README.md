@@ -1,4 +1,4 @@
-<!-- Banner -->
+![logo](https://github.com/sahibaGalaxy02/sahibaa/blob/main/saba%20logo.png)
 
 
 <h1 align="center">Hi 👋, I'm Sahiba Shaikh</h1>
