@@ -77,4 +77,31 @@ A premium restaurant platform with **responsive design** and **interactive UI** 
 
 ---
 
+# 💻 Sahiba Shaikh
+
+**_"From `git init` to global impact — I code the future."_** 🚀  
+
+### 🌟 About Me  
+- 🎓 MCA Student | Future AI & Cloud Enthusiast  
+- 💡 Passionate about building clean, efficient, and creative web experiences  
+- 📍 Based in India, coding for a global stage  
+- ⚡ Fun fact: I debug faster than my coffee cools ☕  
+
+### 🛠️ Skills  
+**Languages:** HTML, CSS, JavaScript, Python, SQL, C, C++  
+**Frameworks & Tools:** Django, Bootstrap, Git, GitHub  
+**Special Interests:** UI/UX Design, AI, Cloud Computing  
+
+### 📌 Current Projects  
+- 🍴 **Golden Spoon Restaurant** – Elegant & responsive food ordering site  
+- 💬 **Quote Generator** – Random daily inspiration with API integration  
+- 🏪 **Crowd Server Restaurant** – Scalable restaurant management system  
+
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahiba-shaikh-a4088a276)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/)  
+
+---
+⭐ _"Commit to your dreams like you commit to Git."_
+
 ⭐ *"Code is like humor. When you have to explain it, it’s bad."*
