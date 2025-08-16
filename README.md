@@ -7,7 +7,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 3rd year **BCA** student & pursuing **MCA** soon  
+- 🎓  **MCA** student 
 - 💻 Keen interest in **software** and **web development**  
 - ⚡ Love building **creative, problem-solving projects**  
 - 📚 Always learning something new every day  
